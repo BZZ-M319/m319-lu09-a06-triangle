@@ -1,0 +1,26 @@
+[
+  {
+    "name": "test_area_base_height",
+    "function": "test_area_base_height",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_area_three_sides",
+    "function": "test_area_three_sides",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_area_points",
+    "function": "test_area_points",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_circumference",
+    "function": "test_circumference",
+    "timeout": 10,
+    "points": 1
+  }
+]
